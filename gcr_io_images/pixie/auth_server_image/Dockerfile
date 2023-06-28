@@ -1,1 +1,1 @@
-From gcr.io/pixie-oss/pixie-dev/cloud/auth_server_image
+From gcr.io/pixie-oss/pixie-prod/cloud/auth_server_image
