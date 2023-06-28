@@ -1,1 +1,1 @@
-FROM gcr.io/pixie-oss/pixie-dev/cloud/scriptmgr_server_image
+FROM gcr.io/pixie-oss/pixie-prod/cloud/scriptmgr_server_image
