@@ -1,1 +1,1 @@
-FROM gcr.io/pixie-oss/pixie-dev/cloud/proxy_server_image
+FROM gcr.io/pixie-oss/pixie-prod/cloud/proxy_server_image
