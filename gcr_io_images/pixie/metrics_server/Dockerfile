@@ -1,1 +1,1 @@
-FROM gcr.io/pixie-oss/pixie-dev/cloud/metrics_server_image
+FROM gcr.io/pixie-oss/pixie-prod/cloud/metrics_server_image
