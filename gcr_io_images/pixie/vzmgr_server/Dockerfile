@@ -1,1 +1,1 @@
-FROM gcr.io/pixie-oss/pixie-dev/cloud/vzmgr_server_image
+FROM gcr.io/pixie-oss/pixie-prod/cloud/vzmgr_server_image
